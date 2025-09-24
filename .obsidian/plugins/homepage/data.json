@@ -1,0 +1,18 @@
+﻿{
+    "launchOnStartup":  "File",
+    "version":  "5",
+    "useActiveFile":  false,
+    "file":  "00-主页/主页.md",
+    "showCommand":  true,
+    "ribbonIconEnabled":  true,
+    "workspace":  "",
+    "openYearly":  false,
+    "delay":  200,
+    "openMonthly":  false,
+    "templateFile":  "",
+    "openWeekly":  false,
+    "openOnStartup":  true,
+    "openRandomFile":  false,
+    "showRibbonIcon":  true,
+    "openDaily":  false
+}

@@ -1,0 +1,25 @@
+﻿# Obsidian 配置文件（保留部分重要配置）
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/hotkeys.json
+.obsidian/graph.json
+.obsidian/canvas.json
+# 临时文件和缓存
+.DS_Store
+Thumbs.db
+*.tmp
+*.temp
+.trash/
+# IDE 和编辑器文件
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+# 系统文件
+desktop.ini
+.directory
+# 个人敏感信息
+personal/
+private/
+secrets/

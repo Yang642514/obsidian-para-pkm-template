@@ -1,0 +1,13 @@
+﻿{
+    "globalFilter":  "",
+    "dateFormat":  "YYYY-MM-DD",
+    "emoji":  {
+                  "done":  "✅",
+                  "recurrence":  "🔁",
+                  "priority":  "‼️",
+                  "scheduled":  "🗓️",
+                  "due":  "⏰",
+                  "start":  "⏱️",
+                  "cancelled":  "❌"
+              }
+}
