@@ -78,4 +78,4 @@ Calendar、Homepage、Omnisearch、Recent Files 和 Tag Wrangler 属于可选增
 
 ## 许可证
 
-本仓库目前未添加独立许可证文件。使用或再分发前，请先确认授权范围。
+本项目采用 [MIT License](LICENSE)。第三方插件和主题不包含在本仓库中，其授权以各自项目为准。
